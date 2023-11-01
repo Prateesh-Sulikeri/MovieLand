@@ -15,7 +15,7 @@ Welcome to MovieLand, a web application for searching and displaying movie infor
 To run MovieLand on your local machine:
 
 1. Clone this repository:
-  git clone https://github.com/your-username/MovieLand.git
+  git clone https://github.com/Prateesh-Sulikeri/MovieLand.git
 
 2. Install dependencies:
   npm install
