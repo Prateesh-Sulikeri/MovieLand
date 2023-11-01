@@ -37,6 +37,9 @@ To run MovieLand on your local machine:
 - Click the search icon or press Enter to initiate the search.
 - Movie results will be displayed in the container below the search bar.
 
+![image](https://github.com/Prateesh-Sulikeri/MovieLand/assets/106986640/c6f7b09d-d2de-4667-afc8-7eaafed70fe4)
+
+
 ## Dependencies
 
 - React: [https://reactjs.org/](https://reactjs.org/)
